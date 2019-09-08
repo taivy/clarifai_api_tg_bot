@@ -16,6 +16,7 @@ const (
 	PROXY = "socks5://999.999.999.999:9999"
 )
 
+
 func SetLanguage(args []string) string {
 	var reply string
 	if len(args) != 1 {
