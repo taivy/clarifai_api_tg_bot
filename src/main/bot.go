@@ -12,8 +12,8 @@ import (
 )
 
 const (
-	TOKEN = "966639602:AAHBNcZv6G9otayUb48ZPu617j5l2du3jP4"
-	PROXY = "socks5://192.169.152.231:31403"
+	TOKEN = "YOUR_TOKEN"
+	PROXY = "socks5://999.999.999.999:9999"
 )
 
 func SetLanguage(args []string) string {
